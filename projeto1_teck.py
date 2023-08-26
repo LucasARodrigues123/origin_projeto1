@@ -7,6 +7,6 @@ peso_do_palete = float(input('Qual è o peso do palete?:'))
 resultado = float (peso_do_pedido / peso_da_bobina)
 Resultadofinal = resultado * quantas_peças
 print('O tamanho do Tubete é {:.2f} \n A quantidade peças  é {:.6f}\n O peso do palete é {:.3f}'.format(peso_do_tubeti_padrão, Resultadofinal, peso_do_palete))
-# criar um  calculo que mostre as condiçoes para ativar variaveis espesificas
+# criar um  calculo que mostre as condiçoes para ativar variaveis espesificas usando if elif else
 
 # criar um codigo que mostre o resultado final do programa
